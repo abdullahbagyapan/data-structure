@@ -16,7 +16,7 @@ Both *store* and *select* take (deterministic worst case) constant time. Arrays 
 
 ## Implementation
 
-Many language support array.
+Many languages support array.
 
 ### Java
 
@@ -27,7 +27,7 @@ String[] names;
 ### C
 
 ```c
-int[] names;
+names int[2];
 ```
 
 ### Go
